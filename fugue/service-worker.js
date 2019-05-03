@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "1980f55e3a7f5ae61582dc1a28b5f605"
+    "revision": "d9859d7c2cce6dca8c593506d14b1bf9"
   },
   {
     "url": "assets/css/0.styles.099ae12a.css",
@@ -36,48 +36,48 @@ self.__precacheManifest = [
     "revision": "6f882b9eb8a7364d03f3892957ab8c7b"
   },
   {
-    "url": "assets/js/11.0f9689fc.js",
-    "revision": "cb25222c2bba73757bf63468144acd22"
+    "url": "assets/js/11.54461462.js",
+    "revision": "e360c772b41d1d4c5674a9a854d76010"
   },
   {
     "url": "assets/js/12.51aa2cfc.js",
     "revision": "4cd5d2462e308e25d9353dcb0087bda9"
   },
   {
-    "url": "assets/js/13.e4c67a93.js",
-    "revision": "3e56e2c22736d636bb1bdafd25347201"
+    "url": "assets/js/13.b761086f.js",
+    "revision": "2f08b7a8e7ff8eef467382bd450cbf12"
   },
   {
-    "url": "assets/js/14.e187828e.js",
-    "revision": "b4ede25a6969ef7ac2cf4db14b3ad7e9"
+    "url": "assets/js/14.9c1fe37a.js",
+    "revision": "dbc9bdfb25e97b597b2463648ba3495e"
   },
   {
-    "url": "assets/js/15.ac9c5f2d.js",
-    "revision": "0dc2acfddabaa3498009734b4ef018e9"
+    "url": "assets/js/15.da2709c2.js",
+    "revision": "fa03de0e92f57698f6dfbdbb6d8d6252"
   },
   {
     "url": "assets/js/16.0624363c.js",
     "revision": "3a3c9925c130d31fa8284adb0dfd232b"
   },
   {
-    "url": "assets/js/17.87e6c414.js",
-    "revision": "7200b13dc3ae8ce22f306d056a1fef52"
+    "url": "assets/js/17.748b5ec3.js",
+    "revision": "8da27b5df1b5d8132784a57385d6398d"
   },
   {
-    "url": "assets/js/18.f09dd8bb.js",
-    "revision": "1614a4c6c8b19b0849ba5d77a3a1055f"
+    "url": "assets/js/18.7532c248.js",
+    "revision": "ddac49911930723570172d46926a1b15"
   },
   {
-    "url": "assets/js/19.efa6ac57.js",
-    "revision": "2505f5453dff6ebce9f29dac94bb2fcb"
+    "url": "assets/js/19.56f80234.js",
+    "revision": "5fb9f36d1d3ad0902ce537e1b82f06af"
   },
   {
     "url": "assets/js/2.d41c5a46.js",
     "revision": "0594e6cc75f3103d7d83968688be8876"
   },
   {
-    "url": "assets/js/20.bcbc3030.js",
-    "revision": "87b12324b93627b1d4a20c62c3b70b55"
+    "url": "assets/js/20.c97894a3.js",
+    "revision": "a5bdb96670ebab06750d28ac9b89064a"
   },
   {
     "url": "assets/js/21.724a4f97.js",
@@ -112,8 +112,8 @@ self.__precacheManifest = [
     "revision": "d5a4d48cfa994a7379858aa3efc64968"
   },
   {
-    "url": "assets/js/app.5f6426fb.js",
-    "revision": "43300d720c2f15919bce01b7a87605e8"
+    "url": "assets/js/app.629c2a97.js",
+    "revision": "186391174242dace5a46de879eacc005"
   },
   {
     "url": "D_icon.png",
@@ -177,19 +177,19 @@ self.__precacheManifest = [
   },
   {
     "url": "Fugues/index.html",
-    "revision": "a0936a3a269ee61f6f49432fa0086240"
+    "revision": "ffe2700797d9e6a8a6c88ff81e21d41c"
   },
   {
     "url": "GameModes/index.html",
-    "revision": "6fe7eac86ef2adfe523e566b1bfcb10f"
+    "revision": "0b404ad9243788b63390c1088e1881e6"
   },
   {
     "url": "Gameover/index.html",
-    "revision": "e60f620d086503cfbb6c05528389b55d"
+    "revision": "80cbc1dcd48328edb49c8c18cfb1b217"
   },
   {
     "url": "Gameplay/index.html",
-    "revision": "f6871efc2044bc63f1aebde3588fa3e1"
+    "revision": "a81731e4141a4c2ee2ce0e2e91b95551"
   },
   {
     "url": "I_icon.png",
@@ -197,11 +197,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "4b149d9ea049df03078e3e028e6289f9"
+    "revision": "8c067e2924d18818df85765465f55e71"
   },
   {
     "url": "Introduction/index.html",
-    "revision": "6864b4c083f048c17dd42f48cec4cb71"
+    "revision": "171eb901a21719fd07c5843e581544c5"
   },
   {
     "url": "Meeple_B.png",
@@ -229,7 +229,7 @@ self.__precacheManifest = [
   },
   {
     "url": "Phases/index.html",
-    "revision": "e3e4770eef1f2eb669e9142e489c7d15"
+    "revision": "aed4c4db44b41d78fae87254edf2d8df"
   },
   {
     "url": "S_icon.png",
@@ -237,19 +237,19 @@ self.__precacheManifest = [
   },
   {
     "url": "SetExplanationAndExamples/index.html",
-    "revision": "484ccbcec332896be83150b3b726e03e"
+    "revision": "2cdd66c20ce63ef2a4f81beb6b4dfb25"
   },
   {
     "url": "Setup/index.html",
-    "revision": "9b7915d008776f02de81bc2676a0c151"
+    "revision": "129f7d0067c6ba3c0ab04c1b6bd87f1c"
   },
   {
     "url": "SoloModes/index.html",
-    "revision": "4b9b8c3184aadbd46cc8c2123b8c37a2"
+    "revision": "4339d7ae6a460a4250d4924a9eec54a1"
   },
   {
     "url": "SpiritCards/index.html",
-    "revision": "809b1046d2015a519e619c1d873e0e85"
+    "revision": "184c438327e10187bc1d6207fdea29be"
   },
   {
     "url": "V_icon.png",
